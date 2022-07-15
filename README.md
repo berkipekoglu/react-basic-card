@@ -10,6 +10,8 @@ In this project, I took issues of components, liking, and removing photos.
 - array filter & foreach methods
 
 ## Live
+Live url: https://berkipekoglu.github.io/react-basic-card/
+
 ![](demo.jpg)
 
 # Getting Started with Create React App

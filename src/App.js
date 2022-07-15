@@ -7,30 +7,26 @@ function App() {
     {
       id: 1,
       name: "landscape",
-      image:
-        "https://images.unsplash.com/photo-1657816909730-4b7cbfe2da41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80",
+      image: require('./images/photo1.jpg'),
       title: "The Mountain",
     },
     {
       id: 2,
       name: "architecture",
-      image:
-        "https://images.unsplash.com/photo-1601997474092-586bff2cd2d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      title: "The Mountain",
+      image: require('./images/photo2.jpg'),
+      title: "The Church",
     },
     {
       id: 3,
       name: "architecture",
-      image:
-        "https://images.unsplash.com/photo-1600613363620-9fdf5cc9291b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      title: "The Church",
+      image: require('./images/photo3.jpg'),
+      title: "The Room",
     },
     {
       id: 4,
-      name: "other",
-      image:
-        "https://images.unsplash.com/photo-1648055299798-1d56d22b7eb3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80",
-      title: "Phone Booth",
+      name: "architecture",
+      image: require('./images/photo4.jpg'),
+      title: "The Tower",
     },
   ]);
 

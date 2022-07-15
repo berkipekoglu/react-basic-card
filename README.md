@@ -1,3 +1,17 @@
+# About What?
+In this project, I took issues of components, liking, and removing photos.
+
+#### What did i use?
+- useState
+- spread operator
+- arrow func.
+- components
+- props
+- array filter & foreach methods
+
+## Live
+![](demo.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
